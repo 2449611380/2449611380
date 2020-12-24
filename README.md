@@ -2,7 +2,7 @@
 ### Hey 👋, I'm Lionet
 * 热爱前端
 
-<img align="right" width="400" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
+<img align="right" width="350" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=lionet1224&show_icons=true&hide_border=true)
 
