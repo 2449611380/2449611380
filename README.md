@@ -1,9 +1,9 @@
 
 ### Yoo, I'm Yiwen 👋
-* 热爱前端
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/2449611380)
 
+- 👋 热爱前端
 - 👋 日天Team
 - 👋 专业团队
 - 👋 Web前端工程师
