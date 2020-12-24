@@ -1,7 +1,7 @@
 
 ### Hey 👋, I'm Lionet
 
-<img src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
 
 * 热爱前端
 
