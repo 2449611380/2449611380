@@ -12,7 +12,6 @@
 - 👋 专业团队
 - 👋 Web前端工程师
 <img align="right" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2449611380&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2449611380&show_icons=true&theme=cobalt)
 
