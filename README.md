@@ -24,7 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="left" width="300" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
+<img align="left" width="310" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2449611380&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2449611380&show_icons=true&theme=cobalt)
